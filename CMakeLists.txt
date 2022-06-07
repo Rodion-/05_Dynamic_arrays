@@ -20,5 +20,4 @@ target_include_directories(algo5 PUBLIC
                            )
           	  
 install(TARGETS algo5 DESTINATION bin)
-DESTINATION include
-  )		
+	
