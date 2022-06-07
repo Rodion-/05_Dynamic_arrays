@@ -20,6 +20,5 @@ target_include_directories(algo5 PUBLIC
                            )
           	  
 install(TARGETS algo5 DESTINATION bin)
-install(FILES "${PROJECT_BINARY_DIR}/TutorialConfig.h"
-  DESTINATION include
+DESTINATION include
   )		
